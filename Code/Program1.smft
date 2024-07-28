@@ -1,0 +1,8 @@
+<Device Model="CP3N">
+   <Network Type="Cresnet" Id="01"/>
+   <Network Type="Ethernet" Id="02">
+      <Device Model="TSW-760" DeviceId="03" Name="Room 1 TSW-760"/>
+      <Device Model="UC-ENGINE-FLEX-TEAMS" DeviceId="04" Name="Room 2 UC-ENGINE-FLEX-TEAMS"/>
+      <Device Model="HD-MD4x2-4KZ-E" DeviceId="05"/>
+   </Network>
+</Device>
